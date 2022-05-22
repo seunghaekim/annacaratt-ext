@@ -1,4 +1,5 @@
-import Swiper from "swiper";
+import Swiper from 'swiper/bundle';
+import 'swiper/css/bundle';
 
 if($(".detail_related .swiper-container").length > 0){
     const prd_relation = new Swiper('.detail_related .swiper-container', {
