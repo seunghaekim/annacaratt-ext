@@ -21,7 +21,8 @@ module.exports = {
       new MiniCssExtractPlugin({ filename: 'app.css' }),
       new ProvidePlugin({
         $: "jquery",
-        jQuery: "jquery"
+        jQuery: "jquery",
+        Swiper: path.resolve(__dirname, 'src/vendor/swipe.js')
       })
   ]
 };
