@@ -22,7 +22,7 @@ module.exports = {
       new ProvidePlugin({
         $: "jquery",
         jQuery: "jquery",
-        Swiper: path.resolve(__dirname, 'src/vendor/swipe.js')
+        Swipe: path.resolve(__dirname, 'src/vendor/swipe.js')
       })
   ]
 };

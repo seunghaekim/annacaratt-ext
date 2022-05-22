@@ -1,3 +1,5 @@
+import Swiper from "swiper";
+
 if($(".detail_related .swiper-container").length > 0){
     const prd_relation = new Swiper('.detail_related .swiper-container', {
         slidesPerView: 3,
