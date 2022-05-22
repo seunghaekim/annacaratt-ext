@@ -1,4 +1,5 @@
-import $ from "jquery";
+import "jquery";
+import '../../vendor/swipe'
 
 if($(".detail_related .swiper-container").length > 0){
     const prd_relation = new Swiper('.detail_related .swiper-container', {
