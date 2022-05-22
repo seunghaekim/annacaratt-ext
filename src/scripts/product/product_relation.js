@@ -1,4 +1,3 @@
-import "jquery";
 import '../../vendor/swipe'
 
 if($(".detail_related .swiper-container").length > 0){
