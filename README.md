@@ -1,0 +1,2 @@
+- https://cdn.jsdelivr.net/gh/seunghaekim/annacaratt-ext@21079c2f9e619ddc8a2f87e77faa21fb9585bb77/dist/app.js
+- https://cdn.jsdelivr.net/gh/seunghaekim/annacaratt-ext@21079c2f9e619ddc8a2f87e77faa21fb9585bb77/dist/app.css
